@@ -6,7 +6,7 @@ This will include:
 
 <summary> HTML Boilerplate </summary>
 <details> 
-1. HTMl5 Doctype
+1. HTML5 Doctype
 2. Meta Charset
 3. Title
 </details>
