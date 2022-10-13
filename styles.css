@@ -1,0 +1,22 @@
+body {
+    font-family: 'Dejavu Sans', 'Ubuntu', 'Helvetica', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background: yellow;
+    color: black;
+}
+
+.recipe-list {
+    text-align: center;
+    list-style-type: none;
+}
+
+.recipe-list ul {
+    list-style-type: none;
+}
+
+.recipe-list ul li {
+    padding: 5px;
+}
